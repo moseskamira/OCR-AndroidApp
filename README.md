@@ -20,4 +20,4 @@ This project involves an implementation of the Optical Character Recognizer conc
 
 ## Screenshot
 ### Captured Image With Generated Text
-![Line Graph](/images/ocr_img.png)
+![Line Graph](/images/ocr_img_2.png)
